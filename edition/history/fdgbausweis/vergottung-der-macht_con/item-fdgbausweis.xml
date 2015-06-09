@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="vergottung-der-macht_con" xml:lang="de-de">
+  <title>Die Vergottung der Macht</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="21.01.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Vergottung</indexterm>
+
+        <indexterm>Propaganda</indexterm>
+
+        <indexterm>Die Kunst des Romans</indexterm>
+
+        <indexterm>Milan Kundera</indexterm>
+
+        <indexterm>Solidarität</indexterm>
+
+        <indexterm>SED-Regime</indexterm>
+
+        <indexterm>Wikipedia</indexterm>
+
+        <indexterm>Ulrich von Alemann</indexterm>
+
+        <indexterm>Josef Klein</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="vergottung-der-macht_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Die Sprache der Macht innerhalb totalitärer Staaten wird oftmals als
+    Propaganda etikettiert. Doch so einfach ist es damit nicht getan:</p>
+
+    <p><cite>In Diktaturen dominiert der direktive Sprachmodus mit Anordnung,
+    Befehl und Drohung. Selbst der Gestus der Propaganda ist zwar auf der
+    Oberfläche persuasiv, in der Substanz aber direktiv. Denn für Machterhalt,
+    der sich auf Gewaltmittel stützt, ist es unerheblich, ob Propaganda die
+    Menschen wirklich überzeugt. Wichtiger ist, dass die eigene Ideologie- und
+    Propagandasprache in der öffentlichen Kommunikation monopolisiert und zum
+    Zulassungskriterium für Karrieren wird. [2]</cite></p>
+
+    <p>Die Propaganda-Sprache gab ein einfaches Orientierungssystem ab: wer
+    sie gebrauchte, glaubte entweder daran und war demzufolge einfach
+    gestrickt, oder er gebrauchte sie mit Kalkül. In beiden Fällen war der
+    Umgang mit diesen Menschen gefährlich.</p>
+
+    <p>In seinem Essay <i>Die Kunst des Romans</i> beschäftigt sich Milan
+    Kundera mit den Romanen Kafkas. "Kafkas erste Interpreten haben seine
+    Romane ... als religiöse Parabeln gedeutet." Dem wiederspricht er, um
+    fortzufahren:</p>
+
+    <p><cite>... trotzdem aufschlußreich: überall, wo die Macht sich
+    vergottet, schafft sie sich automatisch eine eigene Theologie; überall, wo
+    sie als Gott auftritt, ruft sie religiöse Gefühle wach; die Welt kann mit
+    einem theologischen Vokabular beschrieben werden. [1]</cite></p>
+
+    <p>Der Begriff <i>Solidarität</i> war ein wesentlicher Terminus in der
+    Theologie des SED-Regimes. Wer erst einmal an das SED-Regime und dessen
+    Theologie glaubt, braucht keine Objekte wie <i>Mit wem übe ich
+    Solidarität?</i> und <i>In welcher Angelegenheit?</i> Nichtgläubige haben
+    diese Angaben schmerzlich vermißt, denn so ein erlerntes Sprachgefühl
+    sitzt tief. Wer <i>Solidarität</i> sagt, muss auch sagen, mit wem diese
+    geübt werden soll. Alles andere ist Theologie und zeugt genau von der
+    Abwesenheit von Solidarität.</p>
+
+    <p><fig>
+        <title>Den Wikipedia-Eintrag zur Solidarität schmückt eine fragwürdige
+        Briefmarke</title>
+
+        <image alt="Wikipediaeintrag"
+               href="soli-briefmarke-ddr_589.gif" placement="break"/>
+      </fig></p>
+
+    <p>Aber auch mit nachfolgenden Objekten ist der Gebrauch von
+    <i>Solidarität</i> fragwürdig. Ulrich von Alemann polemisiert:</p>
+
+    <p><cite>Zugegeben: Ich will Streit anfangen. Und das über eine heilige
+    Kuh, die Solidarität. Denn ich kann es einfach nicht mehr ertragen. Die
+    Sache an sich sicher - sie ist weiterhin aller Ehren wert -, aber das Wort
+    ist bis zur Unkenntlichkeit abgegriffen. Die ehemals heilige Kuh der
+    Arbeiterbewegung hat ihre eingezäunte Weide verlassen, steht überall herum
+    und glotzt einen mitleidheischend an: Seid solidarisch, bitte!
+    [3]</cite></p>
+
+    <p><cite>Begriffe verbrauchen sich, nutzen sich ab, werten sich um, werden
+    umgewandelt und abgewertet. Sie leben: Und deshalb dürfen sie auch
+    sterben, erlöst nach langer Bedeutungsschwindsucht. Die staatliche
+    Verordnung von Solidarität hat dem Begriff endgültig den Todesstoß
+    gegeben. Solidarität übt jetzt endlich jeder Steuerzahler. Denn sie
+    erscheint als steuerliche Zwangsabgabe zur Finanzierung der deutschen
+    Einheit monatlich auf unserem Gehaltszettel. [3]</cite></p>
+
+    <p>Heutzutage läßt sich Machtausübung nicht mehr so leicht an plumper
+    Sprache ausmachen. Dies ist jedoch ein anderes Thema. Doch wie groß muss
+    die Verachtung der noch lebenden Nichtgläubigen sein, wenn jemand die
+    Sprache der Vergottung nutzt - und sei es nur aus Unwissenheit?</p>
+
+    <section><title>Quellen</title><ul>
+        <li>[1] Milan Kundera, Die Kunst des Romans, Frankfurt am Main 1989,
+        S. 112</li>
+
+        <li>[2] Josef Klein, Sprache und Macht, in: APUZ (Aus Politik und
+        Zeitgeschehen) 8/2010, Bonn 2010, <xref format="html"
+        href="http://www.bpb.de/apuz/32949/sprache-und-macht?p=all"
+        scope="external">zum Link</xref></li>
+
+        <li>[3] Ulrich von Alemann, Solidarier aller Parteien - verschont uns!
+        Eine Polemik, Bonn 1996, Gewerkschaftliche Monatshefte 11-12/1996, S.
+        756, <xref format="html"
+        href="http://library.fes.de/gmh/main/pdf-files/gmh/1996/1996-11-a-756.pdf"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

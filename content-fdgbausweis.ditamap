@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="content-fdgbausweis" scope="local" title="Content FDGB-Ausweis"
+     xml:lang="de-de">
+  <mapref href="edition/history/fdgbausweis/keydef-fdgbausweis.ditamap"
+          processing-role="resource-only"/>
+  <topicgroup collection-type="sequence">
+    <topicref keyref="fdgb-ausweis_con" scope="local" toc="yes" type="concept"
+              xml:lang="de-de"/>
+
+    <topicref keyref="sprache-der-macht_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="vergottung-der-macht_con" scope="local" toc="yes"
+              type="concept" xml:lang="de-de"/>
+
+    <topicref keyref="seiten" collection-type="sequence">
+      <topicref keyref="seite-2_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-4_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-8_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-10_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-12_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-14_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-16_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-18_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-20_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-22_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-30_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-36_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-40_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-44_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+
+      <topicref keyref="seite-46_con" scope="local" toc="yes" type="concept"
+                xml:lang="de-de"/>
+    </topicref>
+    </topicgroup>
+  </map>

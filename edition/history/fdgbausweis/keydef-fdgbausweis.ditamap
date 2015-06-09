@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-fdgbausweis" scope="local" title="Container FDGB-Ausweis"
+     xml:lang="de-de">
+  <keydef href="item-fdgbausweis.xml" keys="fdgbausweis"/>
+
+  <keydef href="fdgb-ausweis_con/item-fdgbausweis.xml" keys="fdgb-ausweis_con"/>
+
+  <keydef href="sprache-der-macht_con/item-fdgbausweis.xml" keys="sprache-der-macht_con"/>
+
+  <keydef href="vergottung-der-macht_con/item-fdgbausweis.xml" keys="vergottung-der-macht_con"/>
+
+  <keydef href="seiten/item-fdgbausweis.xml" keys="seiten"/>
+
+  <keydef href="seiten/seite-2_con/item-fdgbausweis.xml" keys="seite-2_con"/>
+
+  <keydef href="seiten/seite-4_con/item-fdgbausweis.xml" keys="seite-4_con"/>
+
+  <keydef href="seiten/seite-8_con/item-fdgbausweis.xml" keys="seite-8_con"/>
+
+  <keydef href="seiten/seite-10_con/item-fdgbausweis.xml" keys="seite-10_con"/>
+
+  <keydef href="seiten/seite-12_con/item-fdgbausweis.xml" keys="seite-12_con"/>
+
+  <keydef href="seiten/seite-14_con/item-fdgbausweis.xml" keys="seite-14_con"/>
+
+  <keydef href="seiten/seite-16_con/item-fdgbausweis.xml" keys="seite-16_con"/>
+
+  <keydef href="seiten/seite-18_con/item-fdgbausweis.xml" keys="seite-18_con"/>
+
+  <keydef href="seiten/seite-20_con/item-fdgbausweis.xml" keys="seite-20_con"/>
+
+  <keydef href="seiten/seite-22_con/item-fdgbausweis.xml" keys="seite-22_con"/>
+
+  <keydef href="seiten/seite-30_con/item-fdgbausweis.xml" keys="seite-30_con"/>
+
+  <keydef href="seiten/seite-36_con/item-fdgbausweis.xml" keys="seite-36_con"/>
+
+  <keydef href="seiten/seite-40_con/item-fdgbausweis.xml" keys="seite-40_con"/>
+
+  <keydef href="seiten/seite-44_con/item-fdgbausweis.xml" keys="seite-44_con"/>
+
+  <keydef href="seiten/seite-46_con/item-fdgbausweis.xml" keys="seite-46_con"/>
+</map>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/map.dtd">
+<map id="keydef-fdgbausweis" scope="local"
+     title="Container FDGB-Ausweis" xml:lang="de-de">
+  <keydef href="item-fdgbausweis.xml" keys="fdgbausweis"/>
+
+  <keydef href="chap1_con/item-fdgbausweis.xml" keys="chap1_con"/>
+
+  <keydef href="chap2_con/item-fdgbausweis.xml" keys="chap2_con"/>
+
+  <keydef href="chap3_con/item-fdgbausweis.xml" keys="chap3_con"/>
+
+  <keydef href="chap4_con/item-fdgbausweis.xml" keys="chap4_con"/>
+</map>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="seite-12_con" xml:lang="de-de">
+  <title>Seite 12</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <critdates>
+      <created date="21.01.2013"/>
+    </critdates>
+
+    <resourceid id="seite-12_con"/>
+  </prolog>
+
+  <conbody>
+    <p><fig>
+        <title>Beiträge des Jahres 1984</title>
+
+        <image alt="Seite 12" href="seite-12.jpg" placement="break"/>
+      </fig></p>
+
+    <section><title>Links</title><ul>
+        <li>Bild in besserer Qualität anschauen bzw. herunterladen, <xref
+        format="html"
+        href="http://www.flickr.com/photos/petersell/8574197741/sizes/l"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

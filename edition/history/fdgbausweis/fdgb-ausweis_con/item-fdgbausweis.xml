@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="fdgb-ausweis_con" xml:lang="de-de">
+  <title>Der FDGB-Ausweis</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="15.08.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <indexterm>Creative Commons Lizenz</indexterm>
+
+        <indexterm>Unterwerfungsritual</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="fdgb-ausweis_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Den FDGB-Ausweis besaß jeder <i>Werktätige der DDR</i>. Und vielleicht
+    liegt er heute noch in den Schubladen vieler Ostdeutscher. Noch vor 23
+    Jahren war er ein Vehikel für ein monatliches Ritual: dem Kleben einer
+    sogenannten Solidaritätsmarke. Na und?</p>
+
+    <p><fig>
+        <title>Neben der Beitrags- die Solidaritätsmarke</title>
+
+        <image alt="FDGB-Ausweis" href="buch-aufgeschlagen.jpg"
+               placement="break"/>
+      </fig></p>
+
+    <p>Eine kleine Marke mit sinnfreiem Aufdruck sorgt für ein
+    flächendeckendes Unterwerfungsritual im Land.</p>
+
+    <p>Die Fotos und Scans, wie sie im Bereich <uicontrol>Links</uicontrol>
+    angeboten werden, können Sie sorgenfrei nutzen. Sie stehen unter einer
+    Creative Commons Lizenz. Jede Seite hat einen Foto-Download-Link.</p>
+
+    <section><title>Quellen</title><ul>
+        <li>Fotos und Scans des Ausweises in einer Übersicht, <xref
+        format="html"
+        href="http://www.flickr.com/photos/petersell/sets/72157633045507528/"
+        scope="external">zum Link</xref></li>
+
+        <li>Obiges Bild in verschiedenen Größen herunterladen, <xref
+        format="html"
+        href="http://www.flickr.com/photos/petersell/8575288876/sizes/l"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

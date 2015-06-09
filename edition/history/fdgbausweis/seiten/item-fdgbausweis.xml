@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"http://docs.oasis-open.org/dita/v1.2/os/dtd1.2/technicalContent/dtd/concept.dtd">
+<concept id="seiten_concept" xml:lang="de-de">
+  <title>Die Seiten des Ausweises</title>
+
+  <shortdesc>Sämtliche Seiten des FDGB-Ausweises.</shortdesc>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>ditalog.com</publisher>
+
+    <copyright>
+      <copyryear year="2014"/>
+
+      <copyrholder>ditalog.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="10.02.2015"/>
+    </critdates>
+
+    <metadata>
+      <prodinfo>
+        <prodname>Ditalog</prodname>
+
+        <vrmlist>
+          <vrm release="10.02.2015" version="2"/>
+        </vrmlist>
+
+        <brand>ditalog</brand>
+
+        <component>ditalog</component>
+
+        <featnum/>
+
+        <series>Tutor</series>
+      </prodinfo>
+    </metadata>
+
+    <resourceid id="seiten_concept"/>
+  </prolog>
+
+  <conbody/>
+</concept>

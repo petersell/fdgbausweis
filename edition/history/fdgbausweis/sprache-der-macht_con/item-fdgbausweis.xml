@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE concept PUBLIC "urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:concept"
+"../../plugins/net.sourceforge.dita4publishers.doctypes/doctypes/concept/dtd/concept.dtd"> -->
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"../../dtd/technicalContent/dtd/concept.dtd">
+<concept id="sprache-der-macht_con" xml:lang="de-de">
+  <title>Die Sprache der Macht</title>
+
+  <prolog>
+    <author type="creator">Andreas Petersell</author>
+
+    <publisher>petersell.com</publisher>
+
+    <copyright>
+      <copyryear year="2013"/>
+
+      <copyrholder>petersell.com</copyrholder>
+    </copyright>
+
+    <critdates>
+      <created date="16.08.2013"/>
+    </critdates>
+
+    <metadata>
+      <keywords>
+        <option/>
+
+        <indexterm>Matthias Nölke</indexterm>
+
+        <indexterm>Sprache der Macht</indexterm>
+
+        <indexterm>Erich Sixt</indexterm>
+      </keywords>
+    </metadata>
+
+    <resourceid id="sprache-der-macht_con"/>
+  </prolog>
+
+  <conbody>
+    <p>Jeder Mensch erfährt in seinem Alltag die Sprache der Macht. Entweder
+    nutzt man sie selbst oder muss sie hören, wenn der Gegenüber seine
+    Dominanz signalisiert. Letzterer nun bewußt oder unbewußt. Darüber
+    schreibt Matthias Nölke in seinem Buch <i>Die Sprache der Macht: Wie man
+    sie durchschaut. Wie man sie nutzt.</i> Der Leser erhält Beispiele und
+    rhetorische Tipps zum Gebrauch der Machtsprache und zum Durchbrechen des
+    Dominanzstrebens des Gegenübers. Auch er spricht aus, was wir alle schon
+    ahnten:</p>
+
+    <p><cite>Nach Macht in irgendeiner Form streben wir alle. Wer Macht hat,
+    kann nach eigenen Vorstellungen gestalten und auf andere Menschen
+    einwirken. Und das ist eine zutiefst beglückende Erfahrung - für jeden von
+    uns. Ja, unsere seelische Gesundheit hängt unter anderem davon ab, dass
+    wir unser Tun als wirksam empfinden, dass wir eben nicht ohnmächtig alles
+    über uns ergehen lassen müssen. Hin und wieder verschaffen wir alle uns
+    dieses Glück über ein "kleines Machterlebnis" - auch so charakterlich
+    integre Menschen wie Sie und ich. [1]</cite></p>
+
+    <p>Nicht immer wird die Sprache der Macht bewußt gesprochen. Ein sehr oft
+    verbreiteter Satz, zufällig im Zusammenhang mit Gewerkschaften, ist der
+    des Geschäftsführers einer Firma: "Meine Tür steht immer offen".</p>
+
+    <p>In einem Interview mit der Berliner Zeitung wird Erich Sixt
+    befragt:</p>
+
+    <p><cite>Warum gibt es bei Sixt eingentlich keinen Betriebsrat?</cite></p>
+
+    <p><cite>... Unsere Mitarbeiter werden überdurchschnittlich gut bezahlt,
+    sie sind am Erfolg beteiligt. Und wir haben bei Sixt flache Hierachien und
+    das Prinzip der offenen Tür. [2]</cite></p>
+
+    <p>Es geht nicht um eine moralische Bewertung des Fakts, dass es keinen
+    Betriebsrat bei Sixt gibt. Meine Erfahrung ist sogar, dass je stärker eine
+    Gewerkschaft in einer Firma vertreten ist, desto mehr Mitarbeiter mit
+    Zeitarbeitsvertrag oder gar Werkvertrag gibt es.</p>
+
+    <p>Wenn der Arbeitnehmer seine Tür offen hält, kommt vielleicht frische
+    Luft rein. Mehr nicht.</p>
+
+    <section><title>Quellen</title><ul>
+        <li>[1] Matthias Nölke, Die Sprache der Macht: Wie man sie
+        durchschaut. Wie man sie nutzt, Freiburg 2010, S. 9, <xref
+        format="html"
+        href="http://books.google.de/books?id=LxN_uaOs5poC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_atb#v=onepage&amp;q&amp;f=false"
+        scope="external">zum Link</xref></li>
+
+        <li>[2] Der Ehrbare Kaufmann stirbt aus. Interview mit Erich Sixt,
+        Berliner Zeitung vom 4./5. Mai 2013, Seite 10, <xref format="html"
+        href="http://www.fr-online.de/wirtschaft/mietwagen-koenig-erich-sixt--der-ehrbare-kaufmann-stirbt-aus-,1472780,22671920.html"
+        scope="external">zum Link</xref></li>
+      </ul></section>
+  </conbody>
+</concept>

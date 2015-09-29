@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Der FDBG-Ausweis
 
 Den FDGB-Ausweis besaß jeder Werktätige der DDR. Und vielleicht liegt er heute noch in den Schubladen vieler Ostdeutscher. Noch vor 25 Jahren war er ein Vehikel für ein monatliches Ritual: dem Kleben einer sogenannten Solidaritätsmarke. Na und?
@@ -18,3 +19,10 @@ auf [www.seminarwork.com](http://seminarwork.de/edition/history/fdgb-ausweis) ab
 # Lizenz
 
 Dieser Text von Andreas Petersell stehen unter einer [Creative Commons Namensnennung](http://creativecommons.org/licenses/by/3.0/de/) 3.0 Deutschland Lizenz.
+=======
+Der FDGB-Ausweis oder die Vergottung der Macht
+==============================================
+DITA source files to eBook "Der FDGB-Ausweis oder die Vergottung der Macht". No defects were generated using the DITA-OT 1.6.3 and the plugin Dita4Publishers 0.9.19RC09.
+
+* Download Output PDF/EPUB: [petersell.com](http://www.petersell.com/fdgbausweis/)
+>>>>>>> 8b2937973ca61390edbad951e22e0e766947628d

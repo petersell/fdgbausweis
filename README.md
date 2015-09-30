@@ -11,9 +11,9 @@ auf [www.seminarwork.com](http://seminarwork.de/edition/history/fdgb-ausweis) ab
 
 # Download
 
-[![EPUB](http://www.seminarwork.com/assets/images/trello-download-epub.png)](https://github.com/petersell/fdgbausweis/raw/master/fdgbausweis.pdf)
+[![EPUB](http://www.seminarwork.com/assets/images/trello-download-epub.png)](https://github.com/petersell/fdgbausweis/raw/master/fdgbausweis.epub)
 
-[![EPUB](http://www.seminarwork.com/assets/images/trello-download-pdf.png)](https://github.com/petersell/fdgbausweis/raw/master/fdgbausweis.epub)
+[![EPUB](http://www.seminarwork.com/assets/images/trello-download-pdf.png)](https://github.com/petersell/fdgbausweis/raw/master/fdgbausweis.pdf)
 
 # Lizenz
 

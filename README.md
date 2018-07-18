@@ -6,9 +6,6 @@ Der Begriff *Solidarität* war ein wesentlicher Terminus in der Theologie des SE
 
 Der FDGB-Ausweis wird mit sämtlichen Seiten abgebildet.
 
-## Online
-auf [www.seminarwork.com](http://seminarwork.de/edition/history/fdgb-ausweis) abrufbar.
-
 ## Download
 
 [![EPUB](/assets/images/download-epub.png)](https://github.com/petersell/fdgbausweis/raw/master/fdgbausweis.epub)
